@@ -1,1 +1,1 @@
-alert("hola")
+void saludo() { alert("hola") }
